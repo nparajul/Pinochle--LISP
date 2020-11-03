@@ -1,0 +1,33 @@
+(
+
+   1
+  
+
+   0 0 
+
+   ( QH KH QC QD KD JH XH 9H XC JS QD KS )
+
+   ()
+
+   ()
+
+
+
+   0 22
+
+   ( AH AC AS AD XH AC JH QC QS KD 9D )
+
+   ( XC JC )
+
+   ( (9H) )
+
+
+   KH
+   
+
+   ( AH KC QH 9C 9S XD KC JD JS 9S KS XS 9C JC AD 9D AS XS XD JD QS )
+
+
+
+   Human
+)
